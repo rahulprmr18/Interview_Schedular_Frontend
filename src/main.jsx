@@ -6,8 +6,6 @@ import "./index.css";
 import { AuthProvider } from "./context/AuthContext";
 
 export const backend = "https://interview-schedular-backend.onrender.com";
-
-
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
